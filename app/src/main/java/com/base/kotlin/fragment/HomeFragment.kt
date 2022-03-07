@@ -1,4 +1,4 @@
-package com.base.kotlin
+package com.base.kotlin.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
